@@ -34,4 +34,4 @@ async def userinfo(ctx, member : discord.Member):
     embed.set_thumbnail(url=member.avatar_url)
     await ctx.send(embed=embed)
 
-bot.run(' ')
+bot.run(' ')#Insert token inside the quotes!
