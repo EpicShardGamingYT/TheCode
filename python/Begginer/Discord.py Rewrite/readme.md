@@ -1,11 +1,9 @@
 # Basic rewrite (updated version of discord.py async.)
 
-# For Ubuntu:
-
 
 ## Manual Installation:
 install python3 by doing:
-
+### Ubuntu:
 `sudo apt install python3`
 
 enter your password the wait!
@@ -34,7 +32,7 @@ So either run `apt-get install python3` `or apt-get install python` to get pytho
 
 if you have done it,
 
-install discord.py with `pip install discord.py` or `pip3 install discord.py`
+install discord.py with `pip install -U https://github.com/Rapptz/discord.py/archive/rewrite.zip` or `pip3 install -U https://github.com/Rapptz/discord.py/archive/rewrite.zip`
 
 then to install an editor if cases the linux doesnt have a default like ubuntu:
 
